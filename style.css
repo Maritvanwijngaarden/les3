@@ -5,39 +5,45 @@ body{
 #introtekst{
     background-color:forestgreen;
     text-align:center;
-    color:white;
-    font: 20px arial, sans-serif;
+    color: black;
+    font: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin:50px;
     padding:30px;
 }
+ p{
+     font-family: monospace;
 
+ }
 #startersinformatie{
     background-color:aqua;
-    color:white;
-    font: 15px arial, sans-serif;
+    color:black;
+    font: 15px Arial Verdana;
         text-align:center;
 
 }
 
 #ingredienten{
         background-color:deeppink;
-    color:white;
+    color:black;
     font: 15px arial, sans-serif;
         text-align:center;
+        width: 300px;
 
 
 }
 #keukenspullen{
         background-color:deeppink;
-    color:white;
+    color:black;
     font: 15px arial, sans-serif;
         text-align:center;
+        width: 300px;
 
 
 }
 #bereidingswijzen{
         background-color:deeppink;
-    color:white;
+    color:black;
     font: 15px arial, sans-serif;
         text-align:center;
 
@@ -49,5 +55,5 @@ body{
         font: 15px arial, sans-serif;
     text-align:center;
 
-    color:white;
+    color:black;
 }
